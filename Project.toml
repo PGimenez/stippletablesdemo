@@ -1,0 +1,3 @@
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+StippleTables = "5bb4b094-0818-496d-ae94-fd777e10e8ba"
